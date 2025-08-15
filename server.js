@@ -14,6 +14,11 @@ app.use(cors());
 app.use(bodyParser.json());
 app.use(express.static(path.join(__dirname, 'public')));
 
+// Import routes
+const datasetRoutes = require('./datasetRoutes');
+app.use('/api/datasets', datasetRoutes);
+
+
 // helpers
 function datasetFile(name) {
   // sanitize name a bit
@@ -79,8 +84,8 @@ app.post('/api/datasets/:name/records', (req, res) => {
   res.json({ ok: true, record });
 });
 
-// listen on environment PORT and bind to 0.0.0.0 for Codespaces port forwarding
+// listen on environment PORT and bind to localhost for Codespaces port forwarding
 const PORT = process.env.PORT || 3000;
-app.listen(PORT, '0.0.0.0', () => {
-  console.log(`Server listening on http://0.0.0.0:${PORT}`);
+app.listen(PORT, 'localhost', () => {
+  console.log(`Server listening on http://localhost:${PORT}`);
 });

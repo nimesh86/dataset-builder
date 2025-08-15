@@ -1,0 +1,75 @@
+main {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  padding: 12px;
+  gap: 10px;
+  overflow: hidden;
+}
+
+header {
+  position: sticky;
+  top: 0;
+  background: var(--card);
+  padding: 10px 12px;
+  display: flex;
+  gap: 8px;
+  align-items: center;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.06);
+  z-index: 10;
+}
+
+footer {
+  position: sticky;
+  bottom: 0;
+  background: var(--card);
+  padding: 12px;
+  border-top: 1px solid #eee;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  z-index: 10;
+}
+
+:root{--bg:#f6f7fb;--card:#fff;--accent:#0b74ff;--muted:#666}
+  body{margin:0;font-family:Inter,system-ui,Arial;background:var(--bg);color:#111;display:flex;flex-direction:column;height:100vh}
+  header{background:var(--card);padding:10px 12px;display:flex;gap:8px;align-items:center;box-shadow:0 2px 6px rgba(0,0,0,0.06)}
+  select,input[type=text]{padding:8px;border-radius:6px;border:1px solid #ddd}
+  button{background:var(--accent);color:#fff;border:none;padding:8px 12px;border-radius:6px;cursor:pointer}
+  main{flex:1;display:flex;flex-direction:column;padding:12px;gap:10px}
+  .chat{flex:1;overflow:auto;background:linear-gradient(180deg,#f9fafb,#fff);padding:12px;border-radius:8px;border:1px solid #eee}
+  .bubble{max-width:80%;padding:10px;border-radius:12px;margin:8px 0;display:inline-block}
+  .user{background:#dcf8c6;align-self:flex-end}
+  .ai{background:#fff;border:1px solid #eee}
+  .meta{font-size:12px;color:var(--muted);margin-top:6px}
+  footer{background:var(--card);padding:12px;border-top:1px solid #eee;display:flex;flex-direction:column;gap:8px}
+  .row{display:flex;gap:8px;align-items:center;flex-wrap:wrap}
+  label{font-size:13px;color:var(--muted)}
+  .traits input{width:80px}
+  .small{font-size:12px;color:var(--muted)}
+  @media(max-width:700px){ .traits input{width:60px} .bubble{max-width:95%} header{flex-wrap:wrap} }
+
+.menu-btn {
+  float: right;
+  background: none;
+  border: none;
+  font-size: 16px;
+  cursor: pointer;
+  color: var(--muted);
+}
+
+.context-menu {
+  position: absolute;
+  background: white;
+  border: 1px solid #ccc;
+  border-radius: 6px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.15);
+  z-index: 1000;
+}
+.context-menu div {
+  padding: 8px 12px;
+  cursor: pointer;
+}
+.context-menu div:hover {
+  background: #f0f0f0;
+}
