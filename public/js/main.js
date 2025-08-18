@@ -64,12 +64,13 @@
     b.appendChild(menuBtn);
     wrap.appendChild(b);
 
+    /*
     if (meta) {
       const m = document.createElement('div');
       m.className = 'meta';
       m.textContent = meta;
       wrap.appendChild(m);
-    }
+    }*/
 
     chat.appendChild(wrap);
     chat.scrollTop = chat.scrollHeight;
