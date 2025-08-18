@@ -5,7 +5,6 @@
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover, user-scalable=no">
 <title>Chat Dataset Editor</title>
 <link rel="stylesheet" href="./css/main.css" />
-
 </head>
 <body>
 
@@ -17,6 +16,7 @@
     <button id="createConfirmBtn" style="display:none">Create</button>
   </div>
   <div style="margin-left:auto" class="small">Pending prompt: <span id="pendingLabel">none</span></div>
+  <button id="settingsBtn">⚙️</button>
 </header>
 
 <main>
@@ -25,6 +25,19 @@
 
 <footer>
   <div class="row">
+    <span id="roleLabel" style="font-weight:bold;color:var(--accent)">User</span>
+    <input id="content" type="text" placeholder="Type message or response..." style="flex:1"/>
+    <button id="saveBtn">Save</button>
+  </div>
+</footer>
+
+<!-- Drawer Panel -->
+<div id="settingsDrawer" class="drawer">
+  <div class="drawer-header">
+    <h3>Settings</h3>
+    <button id="closeDrawer">&times;</button>
+  </div>
+  <div class="drawer-content">
     <label>Mood</label>
     <select id="mood">
       <option value="neutral">neutral</option>
@@ -42,11 +55,15 @@
       <option value="excited">excited</option>
     </select>
 
-    <label>NSFW</label>
-    <input id="nsfw" type="checkbox" />
-  </div>
+    <label>NSFW Level</label>
+    <select id="nsfw">
+      <option value="0">0 - Casual</option>
+      <option value="1">1 - Light</option>
+      <option value="2">2 - Spicy</option>
+      <option value="3">3 - Unleashed</option>
+    </select>
 
-  <div class="row traits">
+    <h4>Traits</h4>
     <label>trust</label><input id="trait_trust" type="number" min="0" max="1" step="0.01" value="0.5"/>
     <label>happiness</label><input id="trait_happiness" type="number" min="0" max="1" step="0.01" value="0.5"/>
     <label>romantic</label><input id="trait_romantic" type="number" min="0" max="1" step="0.01" value="0.2"/>
@@ -54,14 +71,7 @@
     <label>angry</label><input id="trait_angry" type="number" min="0" max="1" step="0.01" value="0.0"/>
     <label>lust</label><input id="trait_lust" type="number" min="0" max="1" step="0.01" value="0.0"/>
   </div>
-
-  <div class="row">
-    <span id="roleLabel" style="font-weight:bold;color:var(--accent)">User</span>
-
-    <input id="content" type="text" placeholder="Type message or response..." style="flex:1"/>
-    <button id="saveBtn">Save</button>
-  </div>
-</footer>
+</div>
 
 <script src="js/main.js"></script>
 <script src="js/context-menu.js"></script>
