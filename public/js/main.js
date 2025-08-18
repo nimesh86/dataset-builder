@@ -5,6 +5,7 @@
   const createBtn = document.getElementById('createBtn');
   const newDatasetInput = document.getElementById('newDatasetInput');
   const createConfirmBtn = document.getElementById('createConfirmBtn');
+  let selectedDatasetJson = '';
 
   let pendingPrompt = null;
   window.currentDataset = '';
@@ -38,6 +39,7 @@
   async function loadRecords(name){
     if(!name) return;
     const r = await api(`/api/datasets/${encodeURIComponent(name)}/records`);
+    selectedDatasetJson = JSON.stringify(r);
     renderChat(r.records || []);
   }
 
@@ -191,6 +193,24 @@ document.addEventListener("click", (e) => {
       e.target !== settingsBtn) {
     settingsDrawer.classList.remove("open");
   }
+});
+
+  document.getElementById("downloadBtn").addEventListener("click", () => {
+  const datasetName = document.getElementById("datasetSelect").value;
+  if (!datasetName) {
+    alert("Please select a dataset first!");
+    return;
+  }
+
+  const blob = new Blob([JSON.stringify(selectedDatasetJson, null, 2)], { type: "application/json" });
+  const url = URL.createObjectURL(blob);
+
+  const a = document.createElement("a");
+  a.href = url;
+  a.download = datasetName + ".json";
+  a.click();
+
+  URL.revokeObjectURL(url);
 });
 
   // init
