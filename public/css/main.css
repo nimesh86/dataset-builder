@@ -78,7 +78,7 @@ footer {
 .drawer {
   position: fixed;
   top: 0;
-  right: -320px; /* hidden by default */
+  right: -360px; /* hidden by default */
   width: 320px;
   height: 100%;
   background: var(--card);
@@ -115,6 +115,29 @@ footer {
 .drawer-content input[type=number] {
   width: 100%;
   margin-bottom: 10px;
+  padding: 6px;
+  border-radius: 6px;
+  border: 1px solid #ddd;
+}
+
+.drawer-content .form-row {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 10px;
+  gap: 10px;
+}
+
+.drawer-content .form-row label {
+  flex: 1;
+  font-size: 13px;
+  color: var(--muted);
+}
+
+.drawer-content .form-row input[type=number],
+.drawer-content .form-row select {
+  flex: 1;
+  max-width: 120px; /* keeps it neat */
   padding: 6px;
   border-radius: 6px;
   border: 1px solid #ddd;

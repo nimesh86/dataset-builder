@@ -38,6 +38,7 @@
     <button id="closeDrawer">&times;</button>
   </div>
   <div class="drawer-content">
+    <div class="form-row">
     <label>Mood</label>
     <select id="mood">
       <option value="neutral">neutral</option>
@@ -46,33 +47,55 @@
       <option value="sad">sad</option>
       <option value="playful">playful</option>
     </select>
+    </div>
 
-    <label>Emotion</label>
-    <select id="emotion">
-      <option value="none">none</option>
-      <option value="inviting">inviting</option>
-      <option value="melancholic">melancholic</option>
+    <div class="form-row">
+      <label>Emotion</label>
+      <select id="emotion">
+        <option value="none">none</option>
+        <option value="inviting">inviting</option>
+        <option value="melancholic">melancholic</option>
       <option value="excited">excited</option>
     </select>
+    </div>
 
-    <label>NSFW Level</label>
-    <select id="nsfw">
-      <option value="0">0 - Casual</option>
-      <option value="1">1 - Light</option>
-      <option value="2">2 - Spicy</option>
+    <div class="form-row">
+      <label>NSFW Level</label>
+      <select id="nsfw">
+        <option value="0">0 - Casual</option>
+        <option value="1">1 - Light</option>
+        <option value="2">2 - Spicy</option>
       <option value="3">3 - Unleashed</option>
     </select>
+    </div>
 
     <h4>Traits</h4>
-    <label>trust</label><input id="trait_trust" type="number" min="0" max="1" step="0.01" value="0.5"/>
-    <label>happiness</label><input id="trait_happiness" type="number" min="0" max="1" step="0.01" value="0.5"/>
-    <label>romantic</label><input id="trait_romantic" type="number" min="0" max="1" step="0.01" value="0.2"/>
-    <label>sad</label><input id="trait_sad" type="number" min="0" max="1" step="0.01" value="0.0"/>
-    <label>angry</label><input id="trait_angry" type="number" min="0" max="1" step="0.01" value="0.0"/>
-    <label>lust</label><input id="trait_lust" type="number" min="0" max="1" step="0.01" value="0.0"/>
+    <div class="form-row">
+      <label>trust</label>
+      <input id="trait_trust" type="number" min="0" max="1" step="0.01" value="0.5"/>
+    </div>
+    <div class="form-row">
+      <label>happiness</label>
+      <input id="trait_happiness" type="number" min="0" max="1" step="0.01" value="0.5"/>
+    </div>
+    <div class="form-row">
+      <label>romantic</label>
+      <input id="trait_romantic" type="number" min="0" max="1" step="0.01" value="0.2"/>
+    </div>
+    <div class="form-row">
+      <label>sad</label>
+      <input id="trait_sad" type="number" min="0" max="1" step="0.01" value="0.0"/>
+    </div>
+    <div class="form-row">
+      <label>angry</label>
+      <input id="trait_angry" type="number" min="0" max="1" step="0.01" value="0.0"/>
+    </div>
+    <div class="form-row">
+      <label>lust</label>
+      <input id="trait_lust" type="number" min="0" max="1" step="0.01" value="0.0"/>
+    </div>
   </div>
 </div>
-
 <script src="js/main.js"></script>
 <script src="js/context-menu.js"></script>
 </body>
