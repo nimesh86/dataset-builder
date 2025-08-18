@@ -171,7 +171,27 @@
     else chat.innerHTML = '';
   });
 
-  
+  // Drawer toggle
+const settingsBtn = document.getElementById("settingsBtn");
+const settingsDrawer = document.getElementById("settingsDrawer");
+const closeDrawer = document.getElementById("closeDrawer");
+
+settingsBtn.addEventListener("click", () => {
+  settingsDrawer.classList.add("open");
+});
+
+closeDrawer.addEventListener("click", () => {
+  settingsDrawer.classList.remove("open");
+});
+
+// Clicking outside drawer closes it
+document.addEventListener("click", (e) => {
+  if (settingsDrawer.classList.contains("open") &&
+      !settingsDrawer.contains(e.target) &&
+      e.target !== settingsBtn) {
+    settingsDrawer.classList.remove("open");
+  }
+});
 
   // init
   await loadDatasets();
