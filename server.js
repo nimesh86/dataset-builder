@@ -88,8 +88,8 @@ app.get('/api/healthz', (req, res) => {
   res.json({ status: 'ok' });
 });
 
-// listen on environment PORT and bind to localhost for Codespaces port forwarding
+// listen on environment PORT and bind to 0.0.0.0 for Codespaces port forwarding
 const PORT = process.env.PORT || 3000;
-app.listen(PORT, 'localhost', () => {
-  console.log(`Server listening on http://localhost:${PORT}`);
+app.listen(PORT, '0.0.0.0', () => {
+  console.log(`Server listening on http://0.0.0.0:${PORT}`);
 });
