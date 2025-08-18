@@ -73,3 +73,49 @@ footer {
 .context-menu div:hover {
   background: #f0f0f0;
 }
+
+/* Drawer Panel */
+.drawer {
+  position: fixed;
+  top: 0;
+  right: -320px; /* hidden by default */
+  width: 320px;
+  height: 100%;
+  background: var(--card);
+  box-shadow: -2px 0 6px rgba(0,0,0,0.2);
+  padding: 16px;
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  transition: right 0.3s ease;
+  z-index: 2000;
+  overflow-y: auto;
+}
+
+.drawer.open {
+  right: 0;
+}
+
+.drawer-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border-bottom: 1px solid #eee;
+  padding-bottom: 8px;
+}
+
+.drawer-content label {
+  margin-top: 8px;
+  font-size: 13px;
+  color: var(--muted);
+  display: block;
+}
+
+.drawer-content select,
+.drawer-content input[type=number] {
+  width: 100%;
+  margin-bottom: 10px;
+  padding: 6px;
+  border-radius: 6px;
+  border: 1px solid #ddd;
+}
