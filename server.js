@@ -84,6 +84,10 @@ app.post('/api/datasets/:name/records', (req, res) => {
   res.json({ ok: true, record });
 });
 
+app.get('/api/healthz', (req, res) => {
+  res.json({ status: 'ok' });
+});
+
 // listen on environment PORT and bind to localhost for Codespaces port forwarding
 const PORT = process.env.PORT || 3000;
 app.listen(PORT, 'localhost', () => {
