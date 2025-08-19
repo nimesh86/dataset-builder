@@ -57,31 +57,53 @@ app.get('/api/datasets/:name/records', (req, res) => {
 
 // add a record (store prompt+response as the required raw format plus parsed fields)
 app.post('/api/datasets/:name/records', (req, res) => {
-  const { prompt, response, traits = {}, mood = '', emotion = '', nsfw = 0 } = req.body;
-  if (!prompt || !response) return res.status(400).json({ error: 'Both prompt and response are required' });
+  const {
+    role, // "user" or "ai"
+    message,
+    traits = {},
+    mood = '',
+    emotion = '',
+    nsfw = 0
+  } = req.body;
 
-  const traitPairs = Object.entries(traits).map(([k, v]) => `${k}:${v}`).join(', ');
+  if (!role || !message) {
+    return res.status(400).json({ error: 'Both role and message are required' });
+  }
+
   const nsfwVal = Number(nsfw) || 0;
-
-  const raw = `<|user|> ${prompt} <|traits|> ${traitPairs} <|mood|> ${mood} <|emotion|> ${emotion} <|nsfw|> ${nsfwVal} <|response|> ${response}`;
-
-  const record = {
-    raw,
-    prompt,
-    response,
-    traits,
-    mood,
-    emotion,
-    nsfw: nsfwVal,
-    createdAt: new Date().toISOString()
-  };
-
   const f = datasetFile(req.params.name);
   const arr = fs.existsSync(f) ? JSON.parse(fs.readFileSync(f)) : [];
-  arr.push(record);
+
+  // find the last block
+  let lastBlock = arr[arr.length - 1];
+
+  // check if last block matches current parameters
+  const matchesLastBlock =
+    lastBlock &&
+    JSON.stringify(lastBlock.traits || {}) === JSON.stringify(traits) &&
+    lastBlock.mood === mood &&
+    lastBlock.emotion === emotion &&
+    lastBlock.nsfw === nsfwVal;
+
+  if (matchesLastBlock) {
+    // append to existing block
+    lastBlock.conversation.push({ speaker: role, text: message });
+  } else {
+    // create new block
+    const newBlock = {
+      traits,
+      mood,
+      emotion,
+      nsfw: nsfwVal,
+      conversation: [{ speaker: role, text: message }],
+      createdAt: new Date().toISOString()
+    };
+    arr.push(newBlock);
+  }
+
   fs.writeFileSync(f, JSON.stringify(arr, null, 2));
 
-  res.json({ ok: true, record });
+  res.json({ ok: true, records: arr, matchesLastBlock });
 });
 
 app.get('/api/healthz', (req, res) => {

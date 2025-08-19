@@ -5,20 +5,21 @@
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover, user-scalable=no">
 <title>Chat Dataset Editor</title>
 <link rel="stylesheet" href="./css/main.css" />
+<link rel="stylesheet" href="./css/chat.css" />
 </head>
 <body>
 
 <header>
   <select id="datasetSelect"><option value="">Select dataset</option></select>
   <div id="createBox" style="display:flex;gap:6px;align-items:center">
-    <button id="createBtn">New dataset</button>
+    <button id="createBtn">New</button>
     <input id="newDatasetInput" type="text" placeholder="dataset-name" style="display:none"/>
     <button id="createConfirmBtn" style="display:none">Create</button>
   </div>
   <div style="display:flex;gap:6px;align-items:center">
     <button id="downloadBtn">⬇️</button>
     <button id="settingsBtn">⚙️</button>
-    <div style="margin-left:auto" class="small">Pending prompt: <span id="pendingLabel">none</span></div>
+    <button id="hideChat">👁️</button>
   </div>
 </header>
 
@@ -28,7 +29,6 @@
 
 <footer>
   <div class="row">
-    <span id="roleLabel" style="font-weight:bold;color:var(--accent)">User</span>
     <input id="content" type="text" placeholder="Type message or response..." style="flex:1"/>
     <button id="saveBtn">Save</button>
   </div>

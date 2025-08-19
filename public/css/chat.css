@@ -1,0 +1,55 @@
+.chat {
+  flex: 1;
+  overflow-y: auto;
+  background: linear-gradient(180deg,#f9fafb,#fff);
+  padding: 12px;
+  border-radius: 8px;
+  border: 1px solid #eee;
+  display: flex;
+  flex-direction: column;
+  scroll-behavior: smooth; /* smooth scroll */
+}
+
+.chat-message {
+  display: block;
+}
+
+.bubble {
+  display: inline-block;
+  position: relative;
+  max-width: 80%;
+  padding: 10px;
+  padding-right: 30px;
+  border-radius: 12px;
+  word-wrap: break-word;
+  animation: bubbleIn 0.25s ease;
+}
+
+/* User message (right aligned, soft blue) */
+.user {
+  background: #d1f1ff;
+  align-self: flex-end;
+  border-bottom-right-radius: 6px;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+}
+
+/* AI message (left aligned, white) */
+.ai {
+  background: #fff;
+  align-self: flex-start;
+  border: 1px solid #eee;
+  border-bottom-left-radius: 6px;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.05);
+}
+
+/* Bubble entrance animation */
+@keyframes bubbleIn {
+  from { transform: translateY(10px); opacity: 0; }
+  to { transform: translateY(0); opacity: 1; }
+}
+
+/* Mobile tweaks */
+@media(max-width:700px){
+  .bubble { max-width: 83%; font-size: 14px; }
+  footer input[type=text] { font-size: 14px; }
+}
