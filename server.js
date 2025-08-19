@@ -3,6 +3,7 @@ const fs = require('fs');
 const path = require('path');
 const bodyParser = require('body-parser');
 const cors = require('cors');
+const { encryptDataset } = require("./encryptor");  
 
 const app = express();
 const DATA_DIR = path.join(__dirname, 'data');
@@ -14,6 +15,7 @@ app.use(cors());
 app.use(bodyParser.json());
 app.use(express.static(path.join(__dirname, 'public')));
 
+// encryptDataset(path.join(DATA_DIR, 'shopping-center.json'));
 // Import routes
 const datasetRoutes = require('./datasetRoutes');
 app.use('/api/datasets', datasetRoutes);

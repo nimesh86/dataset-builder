@@ -6,6 +6,7 @@
   const createBtn = document.getElementById('createBtn');
   const newDatasetInput = document.getElementById('newDatasetInput');
   const createConfirmBtn = document.getElementById('createConfirmBtn');
+  const encryptKey = 'xyzABC123'; // hardcoded for demo; use a secure key in production
 
   // holds the normalized blocks for the currently selected dataset
   let conversationBlocks = [];
@@ -101,9 +102,14 @@
 
   // ---------- UI ----------
   function appendBubble(text, cls, _meta, index) {
-    const b = document.createElement('div');
-    b.className = 'bubble ' + (hidden ? 'blur ' : '') + cls;
-    b.innerHTML = String(text).replace(/\n/g, '<br/>');
+    decrypt(text, encryptKey).then(plainText => {
+      console.log(plainText);
+      const b = document.createElement('div');
+      b.className = 'bubble ' + (hidden ? 'blur ' : '') + cls;
+
+      b.innerHTML = String(plainText).replace(/\n/g, '<br/>');
+    
+  
 
     const menuBtn = document.createElement('button');
     menuBtn.className = 'menu-btn';
@@ -118,7 +124,8 @@
     b.appendChild(menuBtn);
     chat.appendChild(b);
     chat.scrollTop = chat.scrollHeight;
-  }
+  });
+}
 
   function renderChat(blocks) {
     chat.innerHTML = '';
@@ -221,7 +228,7 @@
   // ---------- save flow ----------
   document.getElementById('saveBtn').addEventListener('click', async () => {
     const role = currentRole;
-    const content = document.getElementById('content').value.trim();
+    let content = document.getElementById('content').value.trim();
     if (!content) return alert('Type something in the box');
     if (!datasetSelect.value) return alert('Select or create a dataset first');
     window.currentDataset = datasetSelect.value;
@@ -230,6 +237,8 @@
     const mood = document.getElementById('mood').value;
     const emotion = document.getElementById('emotion').value;
     const nsfw = readNSFW();
+
+    content = await encrypt(content, encryptKey) 
 
     // send message immediately
     const payload = { role, message: content, traits, mood, emotion, nsfw };
@@ -346,24 +355,70 @@
     });
   }
 
-  const hideChatBtn = document.getElementById("hideChat");
-let hidden = true;
+  let hidden = true;
 
-hideChatBtn.addEventListener("click", () => {
-  const bubbles = document.querySelectorAll(".bubble");
+  document.getElementById("hideChat").addEventListener("click", () => {
+    const bubbles = document.querySelectorAll(".bubble");
+    hidden = !hidden;
   
-  hidden = !hidden;
-  
-  bubbles.forEach(bubble => {
-    if (hidden) {
-      bubble.classList.add("blur");
-    } else {
-      bubble.classList.remove("blur");
-    }
+    bubbles.forEach(bubble => {
+      if (hidden) {
+        bubble.classList.add("blur");
+      } else {
+        bubble.classList.remove("blur");
+      }
+    });
+
+    hideChatBtn.textContent = hidden ? "🙈" : "👁️";
+    return true;
   });
 
-  hideChatBtn.textContent = hidden ? "🙈" : "👁️";
-});
+    // --- base64 helpers ---
+  function u8ToB64(u8) {
+    let s = "";
+    for (let i = 0; i < u8.length; i++) s += String.fromCharCode(u8[i]);
+    return btoa(s);
+  }
+  function b64ToU8(b64) {
+    const s = atob(b64);
+    const u8 = new Uint8Array(s.length);
+    for (let i = 0; i < s.length; i++) u8[i] = s.charCodeAt(i);
+    return u8;
+  }
+
+  // Derive key EXACTLY like Node: SHA-256(passphrase) -> 32 bytes
+  async function getKeySha256(passphrase) {
+    const enc = new TextEncoder();
+    const digest = await crypto.subtle.digest("SHA-256", enc.encode(passphrase));
+    return crypto.subtle.importKey(
+      "raw",
+      digest,                    // 32 bytes
+      { name: "AES-CBC" },
+      false,
+      ["encrypt", "decrypt"]
+    );
+  }
+
+  // Encrypt to "ivBase64:cipherBase64"
+  async function encrypt(plainText, passphrase) {
+    const key = await getKeySha256(passphrase);
+    const iv = crypto.getRandomValues(new Uint8Array(16));
+    const data = new TextEncoder().encode(plainText);
+    const buf = await crypto.subtle.encrypt({ name: "AES-CBC", iv }, key, data);
+    const cipherU8 = new Uint8Array(buf);
+    return `${u8ToB64(iv)}:${u8ToB64(cipherU8)}`;
+  }
+
+  // Decrypt from "ivBase64:cipherBase64"
+  async function decrypt(encryptedText, passphrase) {
+    const [ivB64, ctB64] = encryptedText.split(":");
+    const iv = b64ToU8(ivB64);
+    const cipherU8 = b64ToU8(ctB64);
+    const key = await getKeySha256(passphrase);
+    const buf = await crypto.subtle.decrypt({ name: "AES-CBC", iv }, key, cipherU8);
+    return new TextDecoder().decode(buf);
+  }
+
 
   // ---------- init ----------
   await loadDatasets();

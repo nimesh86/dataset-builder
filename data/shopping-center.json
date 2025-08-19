@@ -1,0 +1,1074 @@
+[
+  {
+    "traits": {
+      "trust": 0.6,
+      "happiness": 0.5,
+      "romantic": 0.3,
+      "sad": 0,
+      "angry": 0,
+      "lust": 0.1
+    },
+    "mood": "neutral",
+    "emotion": "none",
+    "nsfw": 0,
+    "conversation": [
+      {
+        "speaker": "user",
+        "text": "pMFj0YEERROONy9fENoXOQ==:ZFSa8v/1fx1VzylxCHNJrVERoIUthjrEWODGYKYPPNU8xoLDtKnJ+euoRoUsyilW"
+      },
+      {
+        "speaker": "ai",
+        "text": "y/fiJQKXF9dBFBisbbkFAA==:j+zPSKLk0i19aijIjhTHSmXVQHzSeQbZXyxNBT7R0y2Ka582wbHXV2fyh3C+tRmvYWD47f/EVsdXE1ldn4QpnEOzSJL6iN+NAW6y5XKQ9kU="
+      },
+      {
+        "speaker": "user",
+        "text": "5Y0yfBvZD/8O5T4yUdoPRw==:ziVHTZUUVmxizYl4CElqyU/soAz5/T/QXoul852buRM="
+      },
+      {
+        "speaker": "ai",
+        "text": "H6naHZavf5CI9eMm6B2fzw==:jhGcsyTmfcC9ZrIqnSU4sg=="
+      },
+      {
+        "speaker": "user",
+        "text": "npwYR+8RbUE9hxQBSkalUA==:9tLXTLB0yCGWFakz2bh3RQ=="
+      }
+    ],
+    "createdAt": "2025-08-18T19:55:30.067Z"
+  },
+  {
+    "traits": {
+      "trust": 0.6,
+      "happiness": 0.5,
+      "romantic": 0.3,
+      "sad": 0,
+      "angry": 0,
+      "lust": 0.1
+    },
+    "mood": "neutral",
+    "emotion": "none",
+    "nsfw": 1,
+    "conversation": [
+      {
+        "speaker": "ai",
+        "text": "J+MVsuQCshdqXui8mSqVfQ==:A+j4I3XJaXFgmzG5rwBrNsmyoYB6mm/hoAY3sGhBytxtGJ2gujrl3x4inoY6GHofncPA+K7WWpx9Mldm7Ycr1A=="
+      },
+      {
+        "speaker": "user",
+        "text": "fZIAEhqbHMy4myGuww1vvw==:VqQsn3hPCG9jKQNcNnUVTdc1V88AjIEr8Nz1RYCSNvY="
+      },
+      {
+        "speaker": "ai",
+        "text": "Qqq/O9ATuVVMI8JpwoNQAw==:NMBKl014egLDm35w4f0OAx6Ogs6K6hOrLHL5g5wGE3dzJbaHQuULly2QCjy0eIRxVxQo7IQfJulNsclPWgerZmDMuc0AW+t9RY2+QSIPoX0="
+      },
+      {
+        "speaker": "user",
+        "text": "HVhmgLOgvk36e55MYPkxlA==:OSDWazS5GvEXjBuAKS8BtDi6LX6hnseQcIcbZBxZ61JK0FLoSOeGQwof2zh/C/nH"
+      },
+      {
+        "speaker": "ai",
+        "text": "krHecwccg0G42el4OBDf+Q==:EEyia3Imt1d305ribpeSwg=="
+      },
+      {
+        "speaker": "user",
+        "text": "NMeCspMWAA8N+7yMBIBd4g==:glPYC2YQmKSqQSLwOLZKsPLdjtp7p6Up06ZI+8Op5q41aI3USSmF0iD07fHpvk5i1XquX4XV0xRcmWhwuSVxh4F8IlBIOku1rHrNVQjxmy07m/MUyIPPaSyv3I2k30hVRSVYHxLB+fYlfOigaIAgXg=="
+      },
+      {
+        "speaker": "ai",
+        "text": "SNIy2GLwijF9rOWniIKHhA==:bACTrzzkv9XvdqSSZBBO69MKeYSersi1GXu0AkrZ18FkVTv3jiP8PVdEZwr6OPISZGwjMTWWvulnXBRvlV13Rjz9sTsmsJGVL/W/CAZ4djHSIjVGFfv6OzzOnL8hW/L/tAekJmn/DpTFGW6d2IKMmIPHWWamuvC0ctabT9Y6XOo="
+      },
+      {
+        "speaker": "user",
+        "text": "fI5ptFYL1LuXDgKlIgZ3Lw==:+5N55iiYFGtou/WK30Og3B8eQdvEtOU6Dg7NlVAYM/+ojzkb7lFidCQOFxPUBaYJVR0OLHwbYMN/Npt9cL1/VA=="
+      },
+      {
+        "speaker": "ai",
+        "text": "LY/4ZQJt3v3uRwZ0NfQ0yw==:ix79t/gE+UAlNOMdkTzbIvgT249TBub4qYkWKz+x99MyYT9w9i/hjYtHlYi9Xd+TzV3d4PdrfHQFUwr7wxc4Ys9ReWyZC7xF+vSSQq3R/1+D9pI577C+aR7/OfTz/OnZQvzI0cr26E5xIDjb+y8U/ivAD4lnZpnJpfi5GhUwog6Xm/r/yECFXtpBASv3bzNHyJ+oD3ZPAJ1JUGoZNg7FKQ=="
+      },
+      {
+        "speaker": "user",
+        "text": "i+1tFfJIMMcs1hR6nSgsHg==:YKTbBsh9ojV3sXMUKPywy8P8ux3OrxhZUC+JDN3soHM="
+      },
+      {
+        "speaker": "ai",
+        "text": "X4AryDTS5S3KAZmaAgEwUw==:ZoEklTsD46pjUiNqBpTM/w=="
+      },
+      {
+        "speaker": "user",
+        "text": "EVjpr8XEz5k52aRg6ZSWbg==:SGkc/heyQvVEntRmI7ntbc+3JtqxnzuS6HNXuslqjwysPtfadWknjgG8NmF7xI/1hjeD8kkG6HKF38y7NvbMnoVXMI1qO+it51FziAmnDrIkC30R58+Tcgre7qoEkA7yE10Da4nt7kFaHqmn2sSr/bdBs1qkY1fW8jXSh6q+QmE="
+      },
+      {
+        "speaker": "ai",
+        "text": "cOUi4rL9amOUKFc2VyY6oQ==:HMogzvsW4ebUbV2F67wElf1T/CfbCqkNlcrjVDrRKxB30qhdYdOejtxzI58ULqDLvCQDcDc5jMlgWxKauxXwiA=="
+      },
+      {
+        "speaker": "user",
+        "text": "06qsj2WuySrsKsrTdaKc0A==:vnLqHB7ATj/W3s5dGSRwoQ=="
+      },
+      {
+        "speaker": "ai",
+        "text": "XQLkEliun9RER81fL2KC9g==:pf9LwiknpWDdcv/2ZXKLyFIUUP1ZRxFAP7noZUdx5IcMRDXVtaKbE+W7enK4fG5D8tUj5w2CK2VBuYJ0TnS3N051i/NsrINr9Q8qqT5vIkhmJWolnPlt45dEZR2t8T2w"
+      },
+      {
+        "speaker": "user",
+        "text": "BzDfSJGTUPrdpKALp9C0jA==:UMXdRngakkqxixPsJuVEkw=="
+      },
+      {
+        "speaker": "ai",
+        "text": "xkDrJvM5M3tMUdp0c8dXVA==:3CxquqkpMT+vUZgobdTECBINHpBNPV4tATiLArULIDoAEvU2iIHYysz9EJjk69CR"
+      },
+      {
+        "speaker": "user",
+        "text": "GyyjJf+MxBm3DbOOyuDPHA==:yA1dp4FRqahlzE2nO3v6gK8FK+xpQoa4kLxtaI6hk/c="
+      },
+      {
+        "speaker": "ai",
+        "text": "iQpTCejmZbl33xngcIp9tg==:XoDp4RVqAsYQnds88/6RMw=="
+      },
+      {
+        "speaker": "user",
+        "text": "Bb0XSOKGWnbIMvsjxSIsvw==:5gI4w/mnnvCjg6ONJTxYI8ADXKzYiS0TtNDwlN7RKq3zVpIeWaYhaxm2mlv4gvHR"
+      },
+      {
+        "speaker": "ai",
+        "text": "1b/cFnBFbLlHeP9YfDwjtw==:AmuqTkIAwGH51ButmReOR4wniPKXzCv3UGyLjN29hzg="
+      }
+    ],
+    "createdAt": "2025-08-18T20:21:58.134Z"
+  },
+  {
+    "traits": {
+      "trust": 0.7,
+      "happiness": 0.6,
+      "romantic": 0.5,
+      "sad": 0,
+      "angry": 0,
+      "lust": 0.3
+    },
+    "mood": "neutral",
+    "emotion": "none",
+    "nsfw": 1,
+    "conversation": [
+      {
+        "speaker": "user",
+        "text": "DzIw+n9eKIkY9o8QNKr40A==:kEKKh8zoyxnDVfP6/UXnctJ9M5ASucEBlLV43RjBzfnOHdYTsRhzc3NEU0GEfiDwJbN3MM5dp0D0ucC7VStwti4Mv20bDe95ROi85lpzsCZzrYMAa4wE51Ih/nCh8ZAY"
+      },
+      {
+        "speaker": "ai",
+        "text": "ZxaYaMxhlGeP0jyp6/dUDg==:zcUhcmPMJJwLu8Ijjo7GsT+EMSJ2UJ8af55KjwHQmHlqHrOh9NpqqRRrmafsN/rV"
+      },
+      {
+        "speaker": "user",
+        "text": "qv8mo9a/roRpfggH1LtqBQ==:9yQQoNu6hkjegXB9+eI8MjZ7akD+KgF8D28LJrRJIe8="
+      },
+      {
+        "speaker": "ai",
+        "text": "nPyuYHk6np2yZ/4kp42Zeg==:+KI4zGVbxI8B8koDjheqYfaozpGNyL0DvLYUahw0ZP6xsDMIov+sbtSgmdpXK+cAx4PPqNr/Qm7xFbqI0H5NW3FKvXL9bzi2Vp37ixZcqYc="
+      },
+      {
+        "speaker": "user",
+        "text": "ijW+dzIQfJVB9x7bOvpoAg==:K/PJQfhqJdAl7P449VRf7PFbeBsh8bvK0bI7NRa5SvY="
+      },
+      {
+        "speaker": "ai",
+        "text": "J96m8N75n+BMYk8D3mouBA==:8LBZwo2nTkohUGBXtg8jkQ=="
+      },
+      {
+        "speaker": "user",
+        "text": "h4Eo1IX5HoMRCZnbsbztnw==:ANl7jTmfUImoMAWLc0LyoNyr8FTJ3Nn9gBOeTWCNBo6GSqM4emIQgVYVrEOsu/RpZviRdBrcEf+grBq3F6t6zCIgmUiue4BHwhp7+pn6zyWNV/qvdNxwRONEI7xnXaYxLBezNNKscN+oDpI+lO3q9z6naPM82gUMhn6PAc6MSjPFwnVfDunr+CKRcgSqNbZF1tIfE6L2iQL8O2iBfrAxNQ=="
+      },
+      {
+        "speaker": "ai",
+        "text": "M7a0Nk8vDMXWZVyaAEnNgQ==:5A+4lMNPN0599LUokA4F+Q=="
+      },
+      {
+        "speaker": "user",
+        "text": "YBOMySJ72Q1AcYlbQyybCQ==:zCRqAgXJE2/uX4uMaqhNsn1Q+YXQ+dgNZ9uW20UL1wU5ibrzWQP4N5PTjERpxjIW"
+      },
+      {
+        "speaker": "ai",
+        "text": "EpLgGzlcoyEy+SSOv34VAQ==:xf+t1LnX1wAbwOZ7B7sfBg=="
+      },
+      {
+        "speaker": "user",
+        "text": "D+vLBOA/nQ38EZ+p8T782Q==:kkFkUhfVaKB6cViwc9YXxvUVH2VUHlGZZ4h3kxn6gGTW1UKOs8c55/O+DkeEh9tZ"
+      },
+      {
+        "speaker": "ai",
+        "text": "3Ue3d26x59401Sv7udMUuQ==:xWRVt+76SX6GYRRGMQPPaQ=="
+      },
+      {
+        "speaker": "user",
+        "text": "69SdXrOSUnnbEROL3OJNrQ==:N5i0C2p5YXJAUBEPOKdK5F1818SLv8nFvzDEDYd8ELDn+JXAhyq2Y0tPqZuemuslMGQv9rugHq/ACD3jIpySDT+dsunKxdBSaFgqXPQlyJk="
+      },
+      {
+        "speaker": "ai",
+        "text": "Q7p8ReyCcYN9ilvlpGkj+g==:xwM2alPSIUdMIUmLUjkMVg=="
+      },
+      {
+        "speaker": "user",
+        "text": "OFVlCubAkccDj7Jq57rs1A==:8kNhnygyr/ncpc0GfvAsDbZl124K0P+drvvhtMH9s5z9xKAT/tIYL+DyQ2Rwl+P780s6cd1H5rXTFdrp+a8Eqw=="
+      },
+      {
+        "speaker": "ai",
+        "text": "OzNItambDN1eNNMByV4uEw==:i4uBPrV57DuLAxr/OjvIj3X8uqvclqylWRWAPAwUtodsBubOPqmfoyi/7/K+RJvxULsq3O/ZwH/F7GDd+YJney3XNFQlKooJK6mN8XrPLw8="
+      },
+      {
+        "speaker": "user",
+        "text": "hvyAKiDZJohOIVoDp5uhTw==:SeY7htvfGgaaP6uKfHHric8lTUXSMGTzvI+FhCSUCTQ="
+      },
+      {
+        "speaker": "ai",
+        "text": "XUGIRc3LaSUNhD280kC+rA==:lKd8ajfFJww/I6VvT11sJHq5LMDttM5wk+dq+kVKhpM="
+      },
+      {
+        "speaker": "user",
+        "text": "eZekeiIBnfSe6wRUx/NcbA==:ZSpvlWr3Y84p/eMyxOZTkA=="
+      }
+    ],
+    "createdAt": "2025-08-18T20:38:47.518Z"
+  },
+  {
+    "traits": {
+      "trust": 0.8,
+      "happiness": 0.6,
+      "romantic": 0.6,
+      "sad": 0,
+      "angry": 0,
+      "lust": 0.5
+    },
+    "mood": "neutral",
+    "emotion": "none",
+    "nsfw": 2,
+    "conversation": [
+      {
+        "speaker": "ai",
+        "text": "i9bdIAUIZ7Wvhnzx9S9WTA==:wl83h2YoPMJNQy3j+aLQ8w=="
+      },
+      {
+        "speaker": "user",
+        "text": "+cAZGL96OUJEV3JOtKkRTQ==:+yB5d/8iuPtcazFSDL1zfmciAli0xfgQZ5dp2SL0yPL7sqlSFc720GOMqR4KeI4Z3a9S9gkBEVmwmqLEP5ztLGFp4QxW7lApfCOYt0jX2lzh4JGOCkpy8ZTC6iSztqZFd9hveEdOoBAyMx7yny2hDA=="
+      },
+      {
+        "speaker": "ai",
+        "text": "DsB1wt8HuCV33uSGYjc+Dg==:50eoHME7Iij2fxvmdNXnE7OoqEFlJDJpBru07fwFLR3S50RbW009zHe1epB9nuQPjWsIuMQji6GRGqWyHJLO02fdsgRAzpcvkCH46Lzenp8="
+      },
+      {
+        "speaker": "user",
+        "text": "0EB7GPxPTerv6n8nAPDfng==:EpJJuYDrTOzvKWhojuSi1a5OWZ/9FmzzfNlod2PL/5vzTGqUFP0btE+G2i9iotALfo8P+/si8rMQcstzTycaqg=="
+      },
+      {
+        "speaker": "ai",
+        "text": "ZUuMaylQCYvW62MtL0OLQg==:C2NlmwYrWJYcRtlj4ikh0q1xoQn+4M1XWYDJQh13W3Gjlx8Ryf9Yj62n/Yrnxiuk2F2tL0g8LhTi39FHpYR/0U9U3LNSfC6FmsAMzyEIa6FtKxwxzPsX7Iz/VgueYjvl6+wWTGLdGnX7rRa6cfaTHA=="
+      },
+      {
+        "speaker": "user",
+        "text": "pmJV4Sn2IgcIGYoxEy/vaA==:nEVwBlg+LYgepbqcD7FJNw=="
+      },
+      {
+        "speaker": "ai",
+        "text": "5Lf6W4isrnX66+XwFPIABg==:P889sRgE02t9kqTU4UWQEMTh2h4xLZLG9LIUXKozRkIz8FdB4h0HKFoBEKyNl/4qPAqGO1ySe/zO/y24fnOoBB9631/IDT9t0WooMpz+Lbw="
+      },
+      {
+        "speaker": "user",
+        "text": "aqCBic6hsmIG1e8ZxlrDaQ==:aIPnG4YLbgFGxSOGaFAbdnpjN+HYzP21fRqOSFHbf2ArUrQ93fHuUIpryhEvILGsvoMN9Wna9EqzhpGtMjn/gG2fsIMiWb81tRi7Wye6vus="
+      },
+      {
+        "speaker": "ai",
+        "text": "1GJmJG/kOm9V4tppAQ6qtA==:pvChLEsKgNcXjT+HGXnEM6oIXwgs6TvzNXYraTz2TzEiTgnibBznZepzUX9iRH8upLMItr2jR9+VcUXStsM5wLj7am1Cxumem2Mw3ryWN2k="
+      },
+      {
+        "speaker": "user",
+        "text": "fDoTCL+kd5H4MPfTRihFXA==:SJo4oR4Cd+uVbT/iFZ7NIqUNLBtG3OEvqYoCFuAG3TE3LbFAxb3HAgIZdW+E1zdpYrFyvaXaTlsmEE8trgKqu9DLkYb68/Fd4/4E7faF5sKMnlFbE2/0ntWgSgsZXjn2"
+      },
+      {
+        "speaker": "ai",
+        "text": "m8+uOYr8JeCLhBmhHmNy6A==:RvrzdXTHKkrstrRIc4E/SDufivXuXh4Nd373H0/4f27i2zuCsmfo4wR7Y4LHIs+NnYL+J6pf6eDF3eXsynzpLFMFOfDOeohniaDf6v7a9PtZ86pYRIy6XxA9vgJopOsFaFbKnAQrn2B5T3q9AoKOew=="
+      },
+      {
+        "speaker": "user",
+        "text": "zjH1sDvh31ZeC31/G8CDLA==:6mX+qvtCGaq8xg5wuFJt4eJq8/CGQMnDYcihKyI45Ec="
+      },
+      {
+        "speaker": "ai",
+        "text": "59C6hLOPwa3/tfzBzTypeg==:HYSm9+pW8SIU2cFoT26ePNrNJkhSAKDNEncyBqEcvD4s4U7Hnv9WgDUM48iIpw+6"
+      },
+      {
+        "speaker": "user",
+        "text": "moScKHs2BG8lFsFCyxwAIg==:PV9ZobdyMIDPyPG09ubQMQ=="
+      },
+      {
+        "speaker": "ai",
+        "text": "6tYZFrfFvMBdd6NFmZq94Q==:0xynkVkW+IAiy2FDBSBA80OO9bJ+Xeoc1O2Tq+12DO20y7JvgMVmz9LgistHH4fiYGs2/JgAiVKli390IFK9AEo+MSFdrwealtNO5qW2ra8="
+      },
+      {
+        "speaker": "user",
+        "text": "dUY1xBfM1vuUqy5InAhqyQ==:5sLyyExqa0op/NJ7YnUf2GsMSKXIaC+TQttL5LhHo2LXqiuOrtL1ArSLd4fOp5jn3/SoocjWDoHeFB7XEdgpvaj9itvt2NmYngoABq3xbSPQb0T3ul5jvmcAO3JA4a9w"
+      },
+      {
+        "speaker": "ai",
+        "text": "LkZs8VYzjeOL4v2Mb+3ehQ==:lk2YB5MppUaHhh80UFfTpyPuLXHh/5pVIU9LqYCQEcMdll95ZMTHDyjvrUVfjb9ASYA+wyjgPWMvJYoJUZXl1zmAJnb3o7UjcavmxZKSIfiJmqHTgaKPAMcgtOfSW8jV"
+      },
+      {
+        "speaker": "user",
+        "text": "Dji9PAEWHHehw4BVcqCeQQ==:RKP0KCwz9DNlJuHfN8+7BWSFjp/Qui7Kd0oEYhn7hZM="
+      },
+      {
+        "speaker": "ai",
+        "text": "Mz3/uUBCs3RCUMPtvTuoBQ==:HDkon6yOEIVgGJ/knUwZ1RAdk98HUQbYKZDZuk0nyVanWL9nR6OWT4ep2KmkS9idubG2At2gll6vr5QWqVK8FExH3ruIuoo2hA44b3iUL0A="
+      },
+      {
+        "speaker": "user",
+        "text": "j2gpt2gQot2RWQYKLps9GQ==:SxYbSqd0lMzckV/xv6vLxw=="
+      },
+      {
+        "speaker": "ai",
+        "text": "VaGjN5ueuberBAepmF1qcg==:OGKuOOm4gVBB/wCB3ALkJxitrsse/0cxxsgWxgQZX7cBtbT4zVxjD3+6xxpgNMqwt/QCtSbfYF9NG7NIA0Es4hL289+bH+sDskIyWas6KcJad5ZMCHwPbzs1jOAo1nxanbHIznwDUYac7xJgrsTRUX0oQ1HQ5AsW6eX4zCWdIkOsmzKtJ6MT1JwOM1h/7AtSAsOjh2NQKXd+pyal81lf6w=="
+      },
+      {
+        "speaker": "user",
+        "text": "uc9dkaiqXLeHKpzU08dFeQ==:30YNOErGqkVRxXoB00FqjeSQaO9XLlmX7EBPKqNYxIT9YoOBmSW4qFa/fEXHMhhK"
+      },
+      {
+        "speaker": "ai",
+        "text": "7SyQAokH7EtcXdNda3GURw==:r4nNTCc8sOWkb1eJ9Ke3UaM9fg6CtU8e0Hd6uIJkVtGgAlKHE0ztImjyPLap0iM2XwCBuIB+EBuWcEWheFf6Wg=="
+      },
+      {
+        "speaker": "user",
+        "text": "sOCpTdFIqDwJ/kHbPblT/Q==:zYWCOm605rH1HlS/X4TxQ9J642ChVq4tni+AyaGjCww="
+      },
+      {
+        "speaker": "ai",
+        "text": "i3vcOcqlXnZhdWBWd7eKZQ==:B592jdes+u4Szuf6QO6Ex+xkjfnxbPeDw/6BTvkE3BlClRfa4hMHvYJNvqoleq8t"
+      },
+      {
+        "speaker": "user",
+        "text": "Ae1Acsn5akE2z0MynlbF2g==:u23oixvmxaGCfNr44qCyow=="
+      },
+      {
+        "speaker": "ai",
+        "text": "5tKiItJyqc4Rf06lRPtKqg==:FKg9byMg3GvxiZ4AOEZhuI9zTatFKf7ubvGNsIeIEHb2gXbeJwayYcxX7Iaq4XqUD0kYZik+9r8bnTqaQ84FdcabXG5r3M2ZhlWxEv2AJVQ="
+      },
+      {
+        "speaker": "user",
+        "text": "w10uef/5q7t77ne6z8JRag==:oGgCzjxA8Zg0LmQ0Ip8GEFRQTWKVLxLvuPnB/C2MKbqWKmdo90I8tYzUY4mSbP/t"
+      },
+      {
+        "speaker": "ai",
+        "text": "Y118HR3PriecsMhYlBR4Xg==:0UNDw7Inr+9lKWhT4iuucIbK+53btwzPgKtov/xYSDvoq8lf3O/RSkCC3CJx/PaitANJWlG+PHP0qRAUFY3i96qAaIxvIb7tQs3F9uNivSR/bX3WQdO2cDu/wdnRFvlB"
+      },
+      {
+        "speaker": "user",
+        "text": "xx8RHaXQDhzohhnbNEbQmA==:ffjxdYctoNGvmIn89qWBL2+nXGcY+2CjiDLebMbtq9U="
+      },
+      {
+        "speaker": "ai",
+        "text": "csMPZ+fgsnr8QdH16yDI4g==:wxanhzvgC1o/r1ViHqEz/w=="
+      },
+      {
+        "speaker": "user",
+        "text": "mbKLwc6AUhA5S7A0Yuk53g==:Caef7n+NOLJeRjnDyxs/8dPChRgnIoTu28HX+zsl4ouf7KOEpZILqut9ZB9TKbzZfxOyFdQ/35+OZsimcFTDsw=="
+      },
+      {
+        "speaker": "ai",
+        "text": "5tcYXWIAyTfOQF8YU3++5g==:Ia3xG3TMPorAMniM9z0o4A=="
+      },
+      {
+        "speaker": "user",
+        "text": "Tx5MyFAzl4ZYYD+C3KSXmQ==:Oj/iXA+SFIm+awRCMPmNwcCnl6tSr5wDnP6yxuGK6wI="
+      },
+      {
+        "speaker": "ai",
+        "text": "15QjeuL4h+hD/yj9378YCQ==:CApM0ruQ9NWzskdF2BJ2OBu54wVPi3dTq/Smkh1/nS2sdoT3DEnkxdKbtrnlZ9nTTEr5JMpKkpQIRN0Q3hMsBHfN8aO+br8yPTJ7nW8hw9Y+ZOqOakCe9V5FciEfeh21l49MieB5D6QnZ23RP2XpuDcexMJMzbvJrInXAcue/Jp4jky3ZbnSOhofI9lrZzTv+27JFyaUpXVmpzjMEwTW8A=="
+      },
+      {
+        "speaker": "user",
+        "text": "2eARyp0M86d+P7cXNg8y9g==:RugBHnJyy/k2i1Vavsnj6g=="
+      },
+      {
+        "speaker": "ai",
+        "text": "sFvCD+GafBB1kEEVcwTq0w==:/zRHfQWbQJ5wOJyBibZPKzc4xErTiSDCHpli3zmkOsIGVOOfkPIWOrv2RycrYMA7jRpG4syc2x+vlLZA+QO7opAbV4PNKcgWwaDcvhFNyTY="
+      },
+      {
+        "speaker": "user",
+        "text": "vWxYu5YWxHrA44vNBqfANg==:QkJRGY0sfpxDgkWDQURPQwbyBVHjbjumoPuT/Vbb5ftOnK0P7pGtsa9ugzslyLx8"
+      },
+      {
+        "speaker": "ai",
+        "text": "Q5aEWd9Mb+0xlzeCgO6KKQ==:WpKi86i8liy2crar6D2BQZ7qNED5pqocOuldZZCQ2qOwXmJmy89hyGkIKxL4k7NP7ZDC/T3kwii2Bdxr9PD7Ww=="
+      },
+      {
+        "speaker": "user",
+        "text": "IWy+rF6LS8WMrm0SajVlng==:18Yl8sZQf+HYIl9t8ouy+g=="
+      },
+      {
+        "speaker": "ai",
+        "text": "ip71YNaoTH7KP32Tawx6xw==:xj4ID50q70xDEnXmw3ruWEktl2Bc3u86Vn5k+agXl8U="
+      },
+      {
+        "speaker": "user",
+        "text": "NoR/wRduT1AxzX0eSahw9g==:H9beRRyn3Gs59oEdEq+9PKvDgv+VMsAsSgdmie1LtS1CECw7xB+XLRHGB3shl357"
+      }
+    ],
+    "createdAt": "2025-08-18T20:52:34.812Z"
+  },
+  {
+    "traits": {
+      "trust": 0.8,
+      "happiness": 0.8,
+      "romantic": 0.8,
+      "sad": 0,
+      "angry": 0,
+      "lust": 0.8
+    },
+    "mood": "playful",
+    "emotion": "excited",
+    "nsfw": 2,
+    "conversation": [
+      {
+        "speaker": "ai",
+        "text": "UXv9gvAjioNtIVLNK30iGg==:8874wDHVZKUmdLX06OHNZCvHalJ7yjkLNQfn+BMQYHKCoQXQZObed5agAvmGRhKi20ZDHtFfvbh+Wjr2KnQECA=="
+      },
+      {
+        "speaker": "user",
+        "text": "p01sKJ+mZEwClp7n+mC3jw==:tc5kTBqBGHXx23VehErxJg=="
+      },
+      {
+        "speaker": "ai",
+        "text": "FJrRJ9WfZ1p38DM7DEQBAQ==:iOdZV1s+JsQCTcLletWZAptXyFDTWSA1tDRcUlp+Xv11zWb/vQxDhq5QG1bKR1jP"
+      },
+      {
+        "speaker": "user",
+        "text": "I5aRPiaGvW/Yph/tOhj/3w==:fUnraHLmdQbK1ld6oRHA3w=="
+      },
+      {
+        "speaker": "ai",
+        "text": "dWR6z2+h/qHRVdp0+B4NWQ==:bw4r+eOVBgsrlRcxPmWh7StGokpGJfsw4Bul4pHQN/MGPbiJiQ3MtHetfWBJYGzS1lQGr+s16xwNDjP68EVnAFTJOwOUiKxaOLH9ACSMc1Gd2y2w98hTj/OuZv5pigXarsso96JhKqGjdYBcab49TNDjQElRBNXZkEoRs8Jx3l7TuMcjVnl22bXR/YhhC5U5AJs0bl46EoBPKIx9z1Cc+e1hr5dwrRkCMMz6EVUH3y0="
+      },
+      {
+        "speaker": "user",
+        "text": "vgsSXELMy3oYLPRHkIfx0A==:LcRjcED0FGhQUH6qSRSbBdUo5wobhk7Spo9aznMs+eo="
+      },
+      {
+        "speaker": "ai",
+        "text": "tA1T77kzM5qcUoM1tGhxFA==:x9NXOwH5IAOBK1pdZ5PmZiXkAaM8Xh3IXf72+b2nSSAsI1yjxk6sVwmjhND3FzIchcoS/m5lTtNNi5t7ZQVlT+IWgVhRM0sWQ5H0xgZMbw4KuYyqkN2yIOiO3hLpzFDj9hpxwZ7DHOfL66dfWygHaQ=="
+      },
+      {
+        "speaker": "user",
+        "text": "ndGIcfNwdjq6vNyxU9JRDQ==:newkJhdR+tV/4hg6GxWz5tEgaVYKF3iAvUpADTkCORMfVz7lJdXRm9oUgQVd5WtyOtQbPyG4oKzzMRVCWVxwOw=="
+      },
+      {
+        "speaker": "ai",
+        "text": "YPgS+GzP5RfAbEoMVw+aVQ==:iDwm3CQMk/ukyhQpDzGNU2N3IvqIxX5HpZFRzwo1tQ0pDvhZvGWpA5MCKy1J1Xz+TwzJo4Yx7h1hOW9XcnmKQwWd6LcQLfBgB7VCtZtbTQraSoEqbuOJNsqcw1byVz8WOfjKhCws9dC3tfoiM9g8AA=="
+      },
+      {
+        "speaker": "user",
+        "text": "4tNoKYtAMnPhe1ylyMKAPQ==:4k48y51JqGOUJ9lj0oo+aGZ1aWrlwwKSjpXPXC3sTF8="
+      },
+      {
+        "speaker": "ai",
+        "text": "8c4+uDt85YUJBumJrTbzIw==:W8xKnQhuMKQ3tiWHgXxFccASAp/Xjt9/SLwdvhX9QuIiuly+YA+x8t3QGpz13WGoCAPrWbMML4NjoUbw/T2p1Wz6A6YMWDPN/2+tCxQoezt3hSj6v9kzrV3CpB2EuKCCBQyaCTJ1sAEG/z08jUamL5EsuHl+aV77Krw3bMTkjQ03KHb9GINuSEfFgy19IhmDx8omxdu66B/EzVRiFhh1Yf4GpDDA5bgUtYrR985pLtQ="
+      },
+      {
+        "speaker": "user",
+        "text": "CEbvklkUTzYxkej+8GBabA==:lsng3aBzDgZWdq5zRUX4qGW/ciXvzUIcs9UOZPfKd1w="
+      },
+      {
+        "speaker": "ai",
+        "text": "4frBr8KyvWQTwI7T9zLWaw==:vrF5R336n4U3Tt40zMvvejsXLawxuBtxG/ZG402ex5JJV/4jRQbx8UCodkaJLwAjOZp6u5PllKwb1cn5AHB/jyX2Pd4rvAARI5vYY8Ui90mEoiEmROAs269ZGkRtTGHe"
+      },
+      {
+        "speaker": "user",
+        "text": "Ik9QM5xLVWzCgSZRPoKCZQ==:iyhRDdfOctzlb0Yt5Lb2Hw=="
+      },
+      {
+        "speaker": "ai",
+        "text": "wlAAMfpM/Dy8z79z9brZvQ==:SZWVsYwiZMDKcmOFaLf9qap3gnC3pWqXa24i5ZB4R1do5lnLxW9kJi4MSmZtun6oWPx3+NdXc0+dTz0DAoBJ3Ml3noE6+YFIWi+TMubZUqQ="
+      },
+      {
+        "speaker": "user",
+        "text": "pEbzaro28UyDFfbT3D09Tw==:SwIheUj178BCd7fLR2k5hEZF5p+3kT+VAZIyXGoxoUk="
+      },
+      {
+        "speaker": "ai",
+        "text": "iuu/fY5WjBT7KpxRPDxk9Q==:MNPqfVwsB2hDGnESQ4nsPKSAKz9M3HP0598b/2JiZBDuSRTPabjeQqYkTgSI5kfn"
+      },
+      {
+        "speaker": "user",
+        "text": "Xv3BlpV+dPVYk13HzpxQnw==:jbC+XuR9yaaQ/gx+0LMknj1whJxNcU/w9TSwxL77JRE="
+      },
+      {
+        "speaker": "ai",
+        "text": "CqXszIuhxJ6kpK1dGb2uOQ==:hSYQ7YimhRHCbeAlCdBBPLVOODSvKtnGH8z3FYu4FJSiy/rrqO2rt/fJ63bPN0ttut/iocKolk4hW7snkqHCT4m10AOKCyL8pNhhdIPFejRuGZEpFdPnbMYMhL+YeDNP8S0eOpZKYWCJhO7WKTrLtg=="
+      },
+      {
+        "speaker": "user",
+        "text": "MPunEjms3U4LOj1m1Vs6vA==:44fnhyijUudstgvo2AVTLopVATAQfAyDps9GrWwesjYxxyLrz5VP1vQT+kCdYnnx"
+      },
+      {
+        "speaker": "ai",
+        "text": "eoTWyxUHJzN2ZK6Tel7cxg==:MlnD7s26BPwktwGSl/+pka5KIA/YFRJs64mP+QfieFFt03kUuOV4k3T+Qc4SgKZDF9c8VPKlAcEzPOlxpczuHb5AmRZDaJcwfJnf5r//2vbGKhYn7Y3CbVCqPta/5UwU"
+      },
+      {
+        "speaker": "user",
+        "text": "zdOCSncT6kt5gVQNOJyN5w==:+8Nm6rwdQ3ZsTkYbYIqjzw=="
+      },
+      {
+        "speaker": "ai",
+        "text": "SCopfqXi64xxRLQ/fIhiPQ==:Hcf9QSW/01FQ8254T6onR188m1HYrXJgMF1u5MnqQMdCavboglJy9VDdp6+zuXBbU+FkSuGyu0UOMH+AsYhV6w=="
+      },
+      {
+        "speaker": "user",
+        "text": "r292t7zoYVzKEqL9nacxoA==:1fc1LdnLUZZOScqn3pGaVyubfKvVedJQFrbOymej8t73dMrGIlAXRoO75QCRqV11DOty784J/OpNF2jR2ZzIUQ=="
+      },
+      {
+        "speaker": "ai",
+        "text": "jb0eq9dQ5zGy1C2KzEOZaQ==:qt+PpDI2VPKOXXSfDqkH7RdJf7Cb6TOFAYxPN9qOS8AZrmVZ1BH81PLDTV2+gr0qR9ynPXmrBazIhW+Zw/1Gut5g8onzMptsUBhmaAciezE="
+      },
+      {
+        "speaker": "user",
+        "text": "KWaisPOyib6y4NXid9jHYg==:kVijlA6uemJEWWblAI4yFYHmTDPjKkPVB/Ya+6Hl3RO3O/FGauA6S9Fz855Gm0FIm9YR08HQ2Eqp8csrFnrFeEmeAy4V53iM93x7h4GxIas="
+      },
+      {
+        "speaker": "ai",
+        "text": "fCeUVF8+MLUyaCQMD7Wnlw==:2Hlm/J925+PAc82l73s35Fhx9PbRLPS9vaZ6zUhyNBRN3HKD7BPPkKE5AP8UsWe9"
+      },
+      {
+        "speaker": "user",
+        "text": "TR7Dcq6LyZZHXLb0LQRxbw==:0IUBnDVZITnYRphLgK2hWA=="
+      },
+      {
+        "speaker": "ai",
+        "text": "2DyK3K+ME6Mrg4nY72qyLw==:Zqjnv+2lI9xficXCEfqzMax/veKdtS1mzuXXVkrtg2HUJ/NFY9zZqokf4AJ7n2oyWE7j8o8MVOI77hzZTNS7WQwoiOBdhdmQzfrzojxshVTfFEA15xXfEtBg8M8uGMiu"
+      },
+      {
+        "speaker": "user",
+        "text": "a6prfCOiRjf/PYqoayKIbg==:WYii1AAoRcqMXn1rjJN0GPj2AoV2hpmVHFQuEseGZhQ="
+      },
+      {
+        "speaker": "ai",
+        "text": "eyDNV5CEzDd/h3VUzJX3YQ==:Lv89qpoSA/S5d0DW4S73VQ1saEoHNOGxAdt6D9bNZ2M="
+      },
+      {
+        "speaker": "user",
+        "text": "ykhgvjT1M6SxKtO3Zc+dPQ==:9PzNs0gsbvW++5L+CjjCrQ=="
+      },
+      {
+        "speaker": "ai",
+        "text": "KqWECQRWYkNi1kh7E/kJyw==:eUoNv9MFea0wctnKB4759gOInn8CVrds/6TG6VFIFgRjAQ3D//lxWOJi/2Qvjoag+WVjLVXBPpOwzCxYPPuqQA=="
+      },
+      {
+        "speaker": "user",
+        "text": "E8sk5E5gmzaSP1tQPBjqbg==:qVuFQoG3uJBClCmCKOk6PlKTPvHAGZSL4L8nrwlaTcE="
+      },
+      {
+        "speaker": "ai",
+        "text": "LhaaERSAJS+Jghmzo6fmUw==:FfzaVvZwVP8JJs8VkenqXPVzHF8mkZGm28n9wbLtMwg4YH/aG6nDq4vpRNVMe78DRkPqwldR/n9cCzYZpacBJ9uaAgA5lWBJjHK33eXNtbM="
+      },
+      {
+        "speaker": "user",
+        "text": "5E4OwiEdQvdiRAcbuJLXbA==:n22Gus1w1eRyUIy9zMWzQA=="
+      },
+      {
+        "speaker": "ai",
+        "text": "lKYANnFdYrI3djgBupqcxw==:iQkX0ZPKtr+8Z6uodTU+yVxyOtcukBrOtSivQA8d2rs="
+      },
+      {
+        "speaker": "user",
+        "text": "3CdpqwLVOu2SDT0IwODJxQ==:nBCvBeG7/dvldNEbAVekdbo+MZBvY3YLDIJso+2wLLgnjVaBIArHDLW7dlHgYpsf"
+      }
+    ],
+    "createdAt": "2025-08-18T21:18:12.488Z"
+  },
+  {
+    "traits": {
+      "trust": 0.9,
+      "happiness": 0.9,
+      "romantic": 0.8,
+      "sad": 0,
+      "angry": 0,
+      "lust": 0.9
+    },
+    "mood": "playful",
+    "emotion": "excited",
+    "nsfw": 3,
+    "conversation": [
+      {
+        "speaker": "ai",
+        "text": "k0Xt/ILF0y3CeG0UxadEjg==:2qbCCTi5JrebyVkW2Q1R+CpgERgRmGzh6p5+tK5TfXrIhGqyyeVHycP+6QAp1GpGsc5/YdE0RlgDPOT1lnhyupNV6SVTyxoGiTa8KxHNDXk="
+      },
+      {
+        "speaker": "user",
+        "text": "aV/K2fRjAP9GeR0c2i7Yog==:bjI/Rk1ecOsFCN/a0qJp36tQ1ljtT/pzuaN+1db52xs="
+      },
+      {
+        "speaker": "ai",
+        "text": "vHrajEz9ZVjrMI2q70jutw==:xWWGYBYWQDkiw/YFEyNaV8iBqTPz7sjheS+Q0uC6W2ksr497wU3ewbaEh7ljVw54"
+      },
+      {
+        "speaker": "user",
+        "text": "yxYMiTnhqQHOby4ZjNsiWA==:7D21+LmeXaBAjgz2St+nOiL7AN3FIBMtvwLAtgPL4KmsqaEkgzJgAAYwgZLv3OWAbw9Zv9R7CpZvkfeeEGjj0g=="
+      },
+      {
+        "speaker": "ai",
+        "text": "OQF5DlAE/7AP55bj/HDS1Q==:ulowE4mGoR7eHvNbBYUY7CnmISYEHx1WgSktcr8fHlHMbSJcOYgSHpgeeiEvEACJcglcVIab41hsc2vngf3KQFYd6kKZ4jRGUBHkjJEa9I2zbYsiyK3XjfpYyUuyVDNB"
+      },
+      {
+        "speaker": "user",
+        "text": "ZI8pD2HcB3XuHJ4boQsJpQ==:zuL9tSFToOA+sSbcoy7GE3W7f+PeeNIaLuVB8nJPeYFsVVmnn1zZg8GfV6CHc/gd"
+      },
+      {
+        "speaker": "ai",
+        "text": "r/RYESa6qC4FHGgtiCx/dQ==:fwLzaaJII8FfPb9D+/6pYhpKJqIk69S5GB6lAC44LAc="
+      },
+      {
+        "speaker": "user",
+        "text": "VWa6MgA5UAy6AVhjAixU4w==:U/7iI2mfwUioY3rYidcWTA=="
+      },
+      {
+        "speaker": "ai",
+        "text": "b8x8OnM0U7F+VcBqWC7xxQ==:UzIIZEpR5o2cgHaScCtjFSeHMcR0XidjnK0nv7spDL1fsoCphD0MLrJNMJkbGiekiqVIqv8uO6AS8C+xJfbBDA=="
+      },
+      {
+        "speaker": "user",
+        "text": "TdZvdE1Ptvi7dsczN4maxg==:zH02piVVSx5q3mHt9yzE32EQtlQe45vVuyY1Xy5g520O3MMN4bGVtaD2XspQgtn2qC9wp7mQX7kgjVbK7P0ExvMfaFmWIP0moAgsVVhUfou9uUC8sIOF7F/luyk77HBK"
+      },
+      {
+        "speaker": "ai",
+        "text": "zHeS5uLpAAgAdy1+RYkA+g==:5gfDmN+RVPFN+PBWwfa8KTQK7DUxUevgPnSdNVIQZuJtTTLI4yXbBTVkz3xVqbiZ"
+      },
+      {
+        "speaker": "user",
+        "text": "Sbj0HO1At0oRyns7yis7QA==:m9BOm0OE8jn0YVytam/uwbzwzVh7HJkWksfDTZgkksw="
+      },
+      {
+        "speaker": "ai",
+        "text": "VTgDPI/2Ii3hFICNwLIpnw==:Na+2Hu3L9gjZ6B+/5LDgmPzKRW/ofum/jevATABpfuQ="
+      },
+      {
+        "speaker": "user",
+        "text": "YBO1hrC6jpeZQnsMSjduWQ==:u734dHxIeoKoxHigBizsh6K4YjfcUOxYi0nKy8CK7UqdMmnWiy0R8LRmrWfZvNvfiB4P3eLfG4/Rc5238D7hxA=="
+      },
+      {
+        "speaker": "ai",
+        "text": "DhC8daEP+ziT1n8gZHCT/A==:gBQ4l6Ssj8W0W3IHajbg277RJeQU1/VYkcfRvtqrSSMb0ba78gqqzJtaEruyp6DGn5AjT5/s52MoVEkPkMdiBA=="
+      },
+      {
+        "speaker": "user",
+        "text": "WxFuKJOiJxkUag1scsLSrQ==:oJcuZRRb4nOlEzSkT/2RjeO99vD0RNbNNBUWYwZCFEE="
+      },
+      {
+        "speaker": "ai",
+        "text": "3tZpDEQLciJy8qfwq7dUyQ==:xuKROLOYq9GfPYMh30GJTtdEW6KwdurkC4uLq72ohLE="
+      },
+      {
+        "speaker": "user",
+        "text": "qcrhaREoLbBhy1J/SOdpyw==:d5HeRzU/qgyReAiltf6mPW+VQanNHGGz+tBKtzXz2Tt4dOLWLiGtavtqOuBsWJmPF/q0GNfxJM13puQ2fL4P3A=="
+      },
+      {
+        "speaker": "ai",
+        "text": "8AVT6ICvtNAE935IngKYwg==:MrK7uq1JThrZsynktlZQD52VVVk7mfNGqETYdwVQBDXAbP6mDFSUrGtWio6q2OI9"
+      },
+      {
+        "speaker": "user",
+        "text": "H5o5V6AOpQaeMKGOQjfNrw==:Fvzb31Konq2Gsx0MTsl9gSlY7S4ePxJ0KBmDz8vxPEnocgk60uah0mLBIsUyHXanuMY3uVHy+G6d/fbEcCXc4w=="
+      },
+      {
+        "speaker": "ai",
+        "text": "pigR8poTqEXi0zmyYZ6zBA==:HXRGXGUFiB+a3+OqbuwNSs6nma5iuU5ZsAD1MaZrzDU="
+      },
+      {
+        "speaker": "user",
+        "text": "KNNslN+Y2+ERoYth6XzOMQ==:3rxUWynzUeHZOEI5kzDjoKpMUqx+KvZAE3pT+95Zx4I="
+      },
+      {
+        "speaker": "ai",
+        "text": "qv1Z4Lm7Kdbt9+p6CspRkg==:Wqd7rGIJiE4i4ZzPeIZY7p4/nNZ0+Pa5Md8g2J+S3eiSagxZ9YUNxr2nxZNtmcdgKq0y8iafMyII6XWPYtgheR9mrehaeQYViy2G8B6RoU8="
+      },
+      {
+        "speaker": "user",
+        "text": "+YRHk1W5cgXiVAkWrKQ7Mg==:/0Tpp0YWHNS8ZM0o60NzOHEs0NBPF7qh/WsyOHFC4wApxzKbETd1dJkM9ShkRBhs"
+      },
+      {
+        "speaker": "ai",
+        "text": "SQea5n7U1G0VmrIT7Igc9w==:yKhd4vXdXl9XMRJfZGZdzcV24X9u4aBpQ9rDlqBFtLg="
+      },
+      {
+        "speaker": "user",
+        "text": "KuBOw2lIvK/bWm5Z28q/rg==:i7Cplvmbih/kAnCpU+JmQgZBv0GiCiXBXkpN4fwJOZ0="
+      },
+      {
+        "speaker": "ai",
+        "text": "wZS5RFRzdw93IsbBESRGNg==:rg2DMvGdykfAYatbkkBLtNiBzbCMzodRsgRyqxU2kiLN8bXLnyThyTVIjPcri0LumBUIpNo0vBJqGSbbMsq8drZKU62xep1vKW5jG3HqObOrRBYQkGj9vtlHRZyQtUb/"
+      },
+      {
+        "speaker": "user",
+        "text": "Xr7SkVOlQv/hUjkw6rV8xQ==:PI4r6l7f5JTdeu24BQ7X9ILRwr2iLqXdKXIrZf4xAdp6X+QEMCMA7GfBaEiv8EctO93aniE423yYz6XpVAKH3A=="
+      },
+      {
+        "speaker": "ai",
+        "text": "GN8s22NER/sm/1jFc/2XNA==:1FYMbgvD/Ajwve/5VfRX0EN8JvDwXHYi6z0JgyJ5b7Y="
+      },
+      {
+        "speaker": "user",
+        "text": "tFNdzCwrVfXtaMmRU/mjDQ==:x8YqM2KFbQoGT8Juujs8JjyZSP54CBP3T2aI+6ZsxgAkbZe6G6IEB42XWqI5CXLVeZH+qdR9m/k/k5wLh2dPlQ=="
+      }
+    ],
+    "createdAt": "2025-08-19T02:37:28.768Z"
+  },
+  {
+    "traits": {
+      "trust": 0.9,
+      "happiness": 0.9,
+      "romantic": 0.8,
+      "sad": 0,
+      "angry": 0,
+      "lust": 0.9
+    },
+    "mood": "playful",
+    "emotion": "excited",
+    "nsfw": 1,
+    "conversation": [
+      {
+        "speaker": "ai",
+        "text": "kX528bZJjIu3e0znWDrjcA==:DgzhagnSdw14LgZ+PP76Yl67Rj6U2eglxAuZgH37Nsed5y9VniKOKtJJ2AAj+vY7r5vPKaMG6YeAmXtt2o50WCTu/U7qEU7wAHa9k/A2agg="
+      },
+      {
+        "speaker": "user",
+        "text": "ntKdbzBiSYI9qZVtLOIZAw==:BNmnbigD0VV3d+lWDpkVAw=="
+      },
+      {
+        "speaker": "ai",
+        "text": "NejstEuOKxMbmImNeSN6Ug==:Gkep139SoT58BrmeGzO5HQ=="
+      },
+      {
+        "speaker": "user",
+        "text": "ZjheFHb0hVKA0nUpwzQXrQ==:Yyi6vk17qsxygKgtjc94y18soZvO23woXgWbbxXwZjklHpSwzZeA5aU5ahDgvnwa"
+      },
+      {
+        "speaker": "ai",
+        "text": "VS5jmZ2QiptVV/D8e5LggQ==:7CRn1MYWQ04CNvpDkCODpSNkRLlFn17mynEp1z59ZS+7YcTXbfaGgOattghyPJGi8rjOe4rMEKNrtAc+CyKpCA=="
+      },
+      {
+        "speaker": "user",
+        "text": "rXKxRn+IGeHJUqFEn6gV9g==:qjWWR7qHCZwJSnEHJVgpy0HCoeLA/prGL8TNX1/npsA="
+      },
+      {
+        "speaker": "ai",
+        "text": "Rp433F0IsriGCL5ohNpuTA==:sxuVW5uRE42YaWI56/PBndXO3Hkbd4KwILaPAulIHqU="
+      },
+      {
+        "speaker": "user",
+        "text": "4L9w8PBUzavgqfsehQ0pNA==:JdsQj7PoG1gsGxsTzt16vQ=="
+      },
+      {
+        "speaker": "ai",
+        "text": "0x9l2xR5brsybMb3byV0Gw==:JE5WBZAlpCaebib9ZrVNlg=="
+      },
+      {
+        "speaker": "user",
+        "text": "Efu1fJSmaZYzdOMDPQNBsw==:eZ5AABMSN2UdUOfLWeR9AA=="
+      },
+      {
+        "speaker": "ai",
+        "text": "YH2lv0LggwFYraHg5m5TEw==:vst8/jibfxMmZmnrlQT19w=="
+      },
+      {
+        "speaker": "user",
+        "text": "1gdZm7R2d0uPVUDHgm9O3w==:swXizcNpIYD/e4+gAPy3FAzpb8Fmrez1f324liC1SuRkohMxwUZMcWIARRSk4LLbVfxzF1CzF9OfNH2FMVvI9g=="
+      },
+      {
+        "speaker": "ai",
+        "text": "yvaZ/5arp1hKkc2JhJA/ow==:nqCS/ahMeiRPNKn6C5ECcb8k6GgT++NC02sJMGtSQqh+r3K2ICWl/zH8Kfs2TqaYGt0yneOzp+WX4l/+4RX2F8V2paJ6Z2zB9e2WDmbubRg="
+      },
+      {
+        "speaker": "user",
+        "text": "n+TscHukSjhB3QPszJ6Uqw==:YUglvYIb5900xV0Ow/IrIc8uhA3ygSez3qnEUud2HiDTzGEUsIjtjljsdYLt8pW7yv04zXFLk3O5JHtTDc8b6LeiEnFEKK/bfzobiQpXvr79YpoiZppaIlWZwvswj41+Y9ftZg7y51NUwzMNbcH/MAZcveJy8i0IZN2YmD7Ukzc="
+      },
+      {
+        "speaker": "ai",
+        "text": "v0oiyAjp4w0fShEN97OXZA==:7IlS4m07AqG6kPp19/Kp53A3F+1/qEt5rMVdmPUeAL4YLD8UzCuc5pBSb46GLmclBiNAqvcepY/NweYAAJxu2u1mMwijdYUth6PmOgUd/j8="
+      },
+      {
+        "speaker": "user",
+        "text": "rT1ZuWMIRrIet/5EkGKRng==:0WG0sDaGYw+BpaJG+f+xouBlJ1qEOFAYEkrE2XQj9d6ARY1z95YUpnrN53ysPbBhpHcTpIA8iafxvoRzdoZO3ibVskqMBmzS+2IdLGlsZP5YNrDZQuuEWhUJBzrvNjVj70Hho5n+tRK3Y02wB3SDXQ=="
+      },
+      {
+        "speaker": "ai",
+        "text": "V2vJ6XDisbUsluX3FFllAA==:VItLaxx4SVjjxxlIBGjR8tA2An/2q8aZyYJKO6atcNggTiD7iyaL3niFjEvR8kTt"
+      },
+      {
+        "speaker": "user",
+        "text": "5XwWqU0sISkQYfH+Vvf+fw==:IOWPWKXvIJ7jbymdR2UpUnBEJ4hPvTy8sHPlCJeZ4aOec6ONHm/oOHmicgR0v2y72yR+Totya93gUFWWEldcxg=="
+      },
+      {
+        "speaker": "ai",
+        "text": "xRzjZe9Ijznsmb6AB38vCw==:c8WyMHgAD25lMT+vzX4QEXU0vlgPrZv0pfXSrS3fo8Vo20ImtWAo3EAoxk4O3O2EFrB/cA3OBV0x1G+IneWK0gvKb04XDpiKr4R4fsWgst3fbxACfAtohEDdXxwtJEWY"
+      },
+      {
+        "speaker": "user",
+        "text": "oUuRY7g2fRY7zKLPm1Ogtg==:q3Sl4jeZk0vyhbPebqS1ehetqzsHjgdY9Rn3bpjkv9y0jvXNHHBHWbwSryoUrtXJrtw5N3qGhtzpRbYEZ14+gJGXJixgVsCd0qOfubWD8IWgSkPIagvxxvdtpYLLM2Zb"
+      },
+      {
+        "speaker": "ai",
+        "text": "Tk5vj8Fr1MBqpRN1f4SFsA==:/deT9IlJa//hP4e6qKhOUhHhfZTPTJaaFMZCNPC2tNA="
+      },
+      {
+        "speaker": "user",
+        "text": "p7WOwfln3Dlv//J8qnQ/3A==:WCmRcB6CD/NdFvN124cOG2I8o7K4gQqYnT5CcL6GdIA="
+      },
+      {
+        "speaker": "ai",
+        "text": "jh7Kx1ERARB8pIiWTlYxYQ==:cxie/ibmVL7D3N288vUBdQ=="
+      },
+      {
+        "speaker": "user",
+        "text": "ncuFkpR2FZluJrEaP6OBSg==:7aST1h9QvwdPg2Y/MHsPWNYTF24KIOCi5lK3ZW54bNYRXVKkUWzzDX47rvZK1x+uIHovLj/4VVRlVgP1DsDT8Q=="
+      },
+      {
+        "speaker": "ai",
+        "text": "nr+wKHGTBZpTa/ajXnxg9g==:tLLJUtydQuIzlzj66rqBnxu4rCplQUgyqlF/jnLUtsjTyI9nlobsHndjZyOyeCpB"
+      },
+      {
+        "speaker": "user",
+        "text": "yYBGmANL0eeg62VDdqFtFQ==:ICbvfCy7wQv9lAHbRKZMAt3sUjIKp7bmwWweE04hJ/0="
+      },
+      {
+        "speaker": "ai",
+        "text": "dFkybxgUVsTbyqSqfAO9mQ==:qHe0ZorOeuDK41UMQ+FbX2+GZTdqT64g/HPQkMF5ZM1axlEuNvQO57w5kQhXP9F3"
+      },
+      {
+        "speaker": "user",
+        "text": "rhqVFzeFMC0gUDlaMoCNJw==:Oq3BkthkNWlXZYn+WNm0JQ=="
+      },
+      {
+        "speaker": "ai",
+        "text": "EVZcSsnUZ6flyPuEs2L4FQ==:yFEJTk5KRLMfp4oVeFFGqs9x0IGA1d+AIPw6NvRG8sk="
+      },
+      {
+        "speaker": "user",
+        "text": "63MPy5NVjc+faRLwNH30XA==:Q0u5n4Z5nBvC2e+B+1r6MB5FNIIg8rbJXoSvHixYDUpHbIle9c8v9uANELHUgND8ZdPWJ+/fuKvn9oqFKuifPQ=="
+      },
+      {
+        "speaker": "ai",
+        "text": "B4Bo1LmIpTmk5OVFfEfM5A==:lUOTNssTrpIdXNhtkSXSFktEBAUUC2cXuUuuX7CjvCglBem/RmDT84cDnpJToqrei3bWio9TdU7iCMI9UgaNsg=="
+      },
+      {
+        "speaker": "user",
+        "text": "NsS4FsSmWtj3LKqfmrKh2Q==:MFvwcJmGP5Z/WPHRSzlliOIKyNi+polez7AbUCx/bZc="
+      },
+      {
+        "speaker": "ai",
+        "text": "fL8Bh+KwlIp8RIdLVl7kpA==:5bgbr/7JlvxO5Nts9YObQOSK60bjYKGBSV6UjXMHX5c7WZLZmTQPvptrFuoSzlUbrv3BqG7NadEPFpUsK8HYfQ=="
+      },
+      {
+        "speaker": "user",
+        "text": "FajrJPy75XMgRvTuThanpQ==:gUVTaj8OpT8Fwd2Jd7QXdkvNUQrmOL77fgjFE+Q6amHMAZP6iRqNLXt+i+CQSb5/"
+      },
+      {
+        "speaker": "ai",
+        "text": "FyDU9NaKIEbAulRDYhpygg==:NzFF66WDwqGuHtnC3zi7L8Mqs5rTkvcC6wojYsuS4R0="
+      },
+      {
+        "speaker": "user",
+        "text": "md/+qgzbUn8w4xYc13jPqg==:wmCYd6RIKIBSWaPu6g07jcvz9Gr2qUPVMmF5SVuKEUy52bel9ig9zXRM0lhuq66yLweQn3vXLRbqMSZguH4sNQ=="
+      },
+      {
+        "speaker": "ai",
+        "text": "9GLDyv7t28jdGU5XmuVoVw==:H9J7E/uGWUxdS+bS0Dwupg=="
+      },
+      {
+        "speaker": "user",
+        "text": "iLDb9ro6blcYyKXJOjRlAw==:uOmkiz234nGzjMN5q48/07gh6E+fT8OXgKvaSDQSqO26fme6CKsWRno0AgtLwvjX"
+      },
+      {
+        "speaker": "ai",
+        "text": "/RRQa2rpnsSvsZZCgyF5GA==:yS249GZz13UJp2gIOJYvjA=="
+      },
+      {
+        "speaker": "user",
+        "text": "7Q7yN4IsA6XSbEJHpsPw/w==:9MWlcXgEQk6qa8DzG1xZi0VU9Z+3t42qUkV0gvQJpkHBdDRwPJyCG19DidpYI77y"
+      },
+      {
+        "speaker": "ai",
+        "text": "JfngiyMhe7d0ohDareK+jg==:OHkFki+4Kk2HU3aW+qFD/w=="
+      },
+      {
+        "speaker": "user",
+        "text": "GFlZHwPeGLUZIdEhYxPUAA==:fJIkZof38M/mYfIjYb26mNTFCiewbGQgfx92s2GOQeO0ltUl5K0lejl+PveHbJPi"
+      },
+      {
+        "speaker": "ai",
+        "text": "r63he+tHW5+swtcXQ205ow==:SEtA9tSFMlI3aQ9Nlf4opmXVtrLFQU7QYwbJyGTofSIb2wn2g0vCW7XkX0788RBHcXtQUSiWEQHrbVe4pXs+Mg=="
+      },
+      {
+        "speaker": "user",
+        "text": "s6ne9dv0VoaTGn2sj6XyMA==:bUF+lKpQolJC1fwWpTz5353q3pIKZKHtyqKQCTSuAScqyd0cF4uzsr02gN8s/asG"
+      },
+      {
+        "speaker": "ai",
+        "text": "Px+hULkeGh1CIFwbLiWP3w==:i+5UDeZtPgYfSBs5Gz9NT+ewFnosF+b+sS+k5HW3s9mzv2WkcLtBRijllA62vn3CsyuWQYFSQHntMNMnrbCxHg=="
+      },
+      {
+        "speaker": "user",
+        "text": "3WlTnHWxmOUC43LwwlebLg==:K6zLmJKKII5HFORLMACvxIc7F3K7B1bgFzI87bJUHP8="
+      },
+      {
+        "speaker": "ai",
+        "text": "BXPwXnzwnrrDjrvqHR5IUg==:hwA40xrjYxwgIOXyh/j0NZGaLQtirLhpwt7nNYizodg="
+      },
+      {
+        "speaker": "user",
+        "text": "YJCS9QNTuC/TYr9tY6lTtw==:HYM/Oxce5/hMw24UZfnyzrWf6X7I5BbHntHqE+9TKVbnBzIRKuqb+RY6p8x9HZmubxZXxsJXSzPLsZhEI6rDKeOR77UYP1gQ3hV7dGhYEgwjB0GsPyf7vASBm+iNPnVSBeI4bd0iwnarOJCg1Y/GjQ=="
+      },
+      {
+        "speaker": "ai",
+        "text": "5uPMbLsc8hIC7KUYdQzyKQ==:RPWKZNFlK1ska4oq9mcid7Ff76yCz78L9IZFGKlFHHvXkxP2r4mujlMAYJkaqobzv+F7xBi/nRAb/26nKowlxjFnQwzQNDEBJ57wf2tMBe+KYzVIZf+QAJbWsc5pRSPX"
+      },
+      {
+        "speaker": "user",
+        "text": "oQ0+ae1NWHgtdpJ4oKtgSQ==:cOH4PafNRkOFvrJ/usywekCkyMYFAnbBcoM/p3bJ/V3XMbWjUtkqK1sF+/5qsJfd"
+      },
+      {
+        "speaker": "ai",
+        "text": "2rYJIkdAJMmpoAWHd8woWA==:dQJSIW8cLwBtFJjSA/B8UHm7hA8vQqm6SJahs/hQVMsJHlH9Mve4t4sMLt/K7O46"
+      },
+      {
+        "speaker": "user",
+        "text": "RNVRwwPA0HpODWIE67szDQ==:s6UuB7dEv3hAGdBh7Ys70A4ulU+L5/CDUv3OqLOfZTKQSwsEYqpTQbREqmj8xTBUeaKnX+eEBxuRUyze2eBXwA=="
+      },
+      {
+        "speaker": "ai",
+        "text": "NnWYb0LWkyd/OR4ofy64Ug==:ryCXDbBxmSV7Aoc0hg4+b7qk4jtMXMVOitKaOV2+Gw7f7AZ0KOPQlontRB2nl3bu"
+      },
+      {
+        "speaker": "user",
+        "text": "q38vFPlTjBHfJ94p3ASlLQ==:uLdUFMFsWqDfGfDqUgCuYKgZXpKQEST3J5kRTChVluI="
+      },
+      {
+        "speaker": "ai",
+        "text": "5rUepSi7jh+42AQkWR2NZg==:csqeqyTrsKbYdD3C4hwrnatHj93UwP4JyfsDA0YSRP6pyJUCvuSoC07g12PEeylc"
+      },
+      {
+        "speaker": "user",
+        "text": "i9tEyvRPGrj0hBcfE2V6QQ==:rvPcCfPco8pamEDcGTlOq74QZCvqjtia8MOgeQAUsy1jz+0Imef76bU4ICZ/RGmkT0AeMtcBXI8bnlQt8NNtCTkN6SVMy+SKAQyzJeYXWOY="
+      },
+      {
+        "speaker": "ai",
+        "text": "RwIDXoBNBUk3DQ7dc3GnzQ==:jcSDJG9Acn8LFKT8oAqXUw=="
+      },
+      {
+        "speaker": "user",
+        "text": "EHk0QMJKmgskV7zKP/p4Eg==:Pn+9eKrS1B0gr0JiAWGrilra/PvI6e06ePKAYL3dICl000Bm0B4kn//utzqPUmqtqKP72s+STPiS6174MVnd+CZ/RjP2oefH38mpXzz92mQ="
+      },
+      {
+        "speaker": "ai",
+        "text": "EeXy6+FW/0WNDIXHdocGig==:UIZ95h2jZT5bmXwOq4nCoBsz9IumH/qGu4LNyCDgsaw="
+      },
+      {
+        "speaker": "user",
+        "text": "Z0+j8IKVOC7U22LW+eheVQ==:6BF5RfZ2a2JVT0/YfYzE09rDfbmDYIJ1PyHKJR2F5Q5hQncD0G5hkn45XPAN9tip1N8mkTi1nwacdgaEm1n+Uw=="
+      },
+      {
+        "speaker": "ai",
+        "text": "lTJGgU9AOzl/dXBynrPAmw==:XoFqR5Pfb2WMZd3g04j3Vn7vxkldDU/n1Ihkxl7gVTI="
+      },
+      {
+        "speaker": "user",
+        "text": "fpoVRfxc/1SVuvYpmX2Tog==:v3q1X1gtzg2qV5lbzPsqDMz5fZGfpjp92I6XtYPki5s="
+      },
+      {
+        "speaker": "ai",
+        "text": "f0fP7cubGLSBEP+cvKAZBQ==:2FTDv/vgMyUnD5AAh5QPTwHRI3mXnGXHalwVj+1WEPOyxKiTFoAX3d4DXKrpY9EGJ8cA7sCLXRM86butxa/RqsS8uFogDH+q7C3w208he88Pb8oZH89ILazjHPom4TE04qXh02ZvKOcqtZd7K3qbKsO+jm/gf8QabbhJgzsFiQw="
+      },
+      {
+        "speaker": "user",
+        "text": "kkxyY22UUXjsUlk6DO3OKQ==:PfYn31SVaiWDPgszYz4JCW2D2S41/UU++0iL9ImQzbakWsPrCIn+0fmZQmNzBi/OxI4aw4kKjZeF3xGSDYIQmQ=="
+      },
+      {
+        "speaker": "ai",
+        "text": "zqYyuxuApMemYjcF1Re5TQ==:p/ljMf2eEnr+jwNXf2o9WAqAg9AIqT/oCdbEyfgrZ60olCvOyMsixj063v1aEJX2Xu3kY3mitmZoBNugl2Tyew=="
+      },
+      {
+        "speaker": "user",
+        "text": "lZC3aIYqvaIZWGQLLD3GGg==:yA+xfSz1UisnhpJC0jnpoQ=="
+      },
+      {
+        "speaker": "ai",
+        "text": "Mzdt89bk9NKT2txz1pCheQ==:jDbj6eE3Qvhguj8OwRATJDaaZkuBD2XT3u+pkcnnnS1WlR/RjtZBUyXUgJ3A21m8I15z8ODyRpYokrfhyDooGA=="
+      },
+      {
+        "speaker": "user",
+        "text": "xqad/DObLVzGH9GkMi8IZw==:RveoWh9atSlIRyEsoeKPTCD/I+x+LZUxqEp6P3+YQfc="
+      },
+      {
+        "speaker": "ai",
+        "text": "pEZMZjg4oR2xkKnb5iTbWw==:yfRt+aDOnkO3mNVwpYMeiWAvVCoSNY+LcMAgzZR83lBO88gwiUSoIx3HOREiMHh3/tu6Dn5Ybtjd8H+O1mVWYgf/FDyG5UYmeE9BdDJz6ByJ3Sp5VG2fAGskENjR+EhPOIQSjCAFgy+J4X5gImgt7w=="
+      },
+      {
+        "speaker": "user",
+        "text": "Nbd4RFg/qKAj0lUSWT10gQ==:bnA/9SohL0V8HdNB5oc5Ag=="
+      },
+      {
+        "speaker": "ai",
+        "text": "vNOSN1+O6zmblaOyk4aC4g==:Ul6uGdKVKzLw9qbPpfH6cSuccidc5g4tAWvA6YoRpupxGJ1Xuyltbt3jrWUfrcete1nL2Y+/2w8QkfZYt1K58St3KMb8+Cxw5uN5kpCrqvFp/VUbp45VKqGn7lE7JnhvyXiolrOOO07eqBBRgdGDLBvyIjVftHX2njge4QbHUlk="
+      },
+      {
+        "speaker": "user",
+        "text": "I59qKZozXjCDgMeppO+58g==:v0xGX/iSv+M6Sh8tjIfIEb8MbYZTXGKx4rf/C1lfjpk="
+      },
+      {
+        "speaker": "ai",
+        "text": "s7q7js3Nv89/3MfhLvmjfg==:BakdMeccyLVL9YD9JfV6Sg32ZpmJfMUns2LqdZo8srimF48Vod3nfi2DWY/MnZZp"
+      },
+      {
+        "speaker": "user",
+        "text": "nNjEEglUGyfWsrzDiOWKNA==:/OgrPy+AEcuBox2um83CW9xE60OfzPirVbutyV+X3UeI8XZN8XTDJ2JeC3F+IlaXdakzdQNniang9111i5hZKA=="
+      },
+      {
+        "speaker": "ai",
+        "text": "XU3z/1iuMFufr8jNTr7igQ==:lue+65l343PDL10aLwjv27ZQZz3LSuSXxA286rWKYZ+vUbjnMOHxqkH38wbutDYRx1gmxq1KhUbc+Uo7wNvGjg=="
+      }
+    ],
+    "createdAt": "2025-08-19T03:00:18.739Z"
+  },
+  {
+    "traits": {
+      "trust": 0.9,
+      "happiness": 0.9,
+      "romantic": 0.8,
+      "sad": 0,
+      "angry": 0,
+      "lust": 0.9
+    },
+    "mood": "playful",
+    "emotion": "inviting",
+    "nsfw": 2,
+    "conversation": [
+      {
+        "speaker": "user",
+        "text": "pnTi3s62AJ/rZcqsjEDFdQ==:9JRUt4DTk568G7cUdiLnANxZZYdvYZx4xSq5fW7aVTxedgsXH/H5ZjeAKLNnPZ2E"
+      },
+      {
+        "speaker": "ai",
+        "text": "VD/Pjd2Un36vijlMfbId0w==:oAzi1Dw+dAc45BOS995O9B3F42csPXZUt0WkMd0byuKV5AbyS4DVaqODqybib2okrMUmkIKgRxIr7yhwgu0LGYMC8iX4WjLxoYCQIrvesXRsa7acLampGedSRkkIuo5HUI9+mD5pGjtFgwRrBZDgIQ=="
+      },
+      {
+        "speaker": "user",
+        "text": "hR8IgM9JIGK8YAqHRdwRaA==:nkFo/YUMGc+HBoN4Y06oxXT6aLnqC7D4DTjSWB5v3ncpxdRD73vRSrEwvbJrDhxM"
+      },
+      {
+        "speaker": "ai",
+        "text": "SfhSn8yxnimkJe+RRIhOcQ==:Ai3qE4UETtq5uGIqrGA3s0ct5Jg3Men7IPxET1UtRQL661jVuItywWdQ3dfvO56Rs4DWJEwToD6MXM7ssHew+Q=="
+      },
+      {
+        "speaker": "user",
+        "text": "j6O/l/Z+4cnOZR2Rg/S3Fw==:u89mAeZf7N+NT41+E5NGB4DqTuz5gOhtUa0/6aUtJF4="
+      },
+      {
+        "speaker": "ai",
+        "text": "4UxygtDw67GlB8Lu8nx01Q==:JTv71+GUnT5jW/3AWAZv7QQzrx9osJKgZxyH2bfY9RX8JMN9WSvj3/afYr6cicVvOWikKvNhbku0oPTdCW9DbA=="
+      }
+    ],
+    "createdAt": "2025-08-19T04:09:47.567Z"
+  }
+]
