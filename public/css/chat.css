@@ -25,6 +25,10 @@
   animation: bubbleIn 0.25s ease;
 }
 
+.bubble.blur {
+  filter: blur(6px);
+}
+
 /* User message (right aligned, soft blue) */
 .user {
   background: #d1f1ff;

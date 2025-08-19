@@ -102,7 +102,7 @@
   // ---------- UI ----------
   function appendBubble(text, cls, _meta, index) {
     const b = document.createElement('div');
-    b.className = 'bubble ' + cls;
+    b.className = 'bubble ' + (hidden ? 'blur ' : '') + cls;
     b.innerHTML = String(text).replace(/\n/g, '<br/>');
 
     const menuBtn = document.createElement('button');
@@ -345,6 +345,25 @@
       URL.revokeObjectURL(url);
     });
   }
+
+  const hideChatBtn = document.getElementById("hideChat");
+let hidden = true;
+
+hideChatBtn.addEventListener("click", () => {
+  const bubbles = document.querySelectorAll(".bubble");
+  
+  hidden = !hidden;
+  
+  bubbles.forEach(bubble => {
+    if (hidden) {
+      bubble.classList.add("blur");
+    } else {
+      bubble.classList.remove("blur");
+    }
+  });
+
+  hideChatBtn.textContent = hidden ? "🙈" : "👁️";
+});
 
   // ---------- init ----------
   await loadDatasets();
